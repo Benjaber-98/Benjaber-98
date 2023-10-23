@@ -20,6 +20,6 @@ I'm a passionate full-stack developer experienced in Laravel and Vue.js. I love 
 
 ## 📫 Let's Connect!
 
-Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/mahmoud-ben-jabir-240342134/), [Facebook](https://www.facebook.com/mahmoud.benja) or [Twitter]([your-twitter-profile](https://twitter.com/Benjaber98)). I'm always open to interesting conversations and collaborations.
+Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/mahmoud-ben-jabir-240342134/), [Facebook](https://www.facebook.com/mahmoud.benja) or [Twitter](https://twitter.com/Benjaber98). I'm always open to interesting conversations and collaborations.
 
 Happy coding! 🚀
